@@ -112,7 +112,7 @@ MedExtract uses **grouping attributes** to link related entities. For example, e
 
 ```bash
 git clone <repo-url>
-cd POC-Google_Langextract
+cd Medextract_Clinical_Assistant
 ```
 
 ### 2. Create and activate a virtual environment
@@ -146,8 +146,6 @@ UPLOAD_DIR=outputs/uploads
 REPORT_DIR=outputs/reports
 DB_PATH=outputs/medextract.db
 ```
-
-> **Note:** The `langextract/` folder in this repo contains the LangExtract source. The application adds it to `sys.path` automatically — no separate installation needed.
 
 ### 5. Set up SQLite
 
@@ -200,8 +198,7 @@ The dashboard will open at `http://localhost:8501`.
 **Analyse documents:**
 ```bash
 curl -X POST "http://localhost:8000/api/v1/analyze" \
-  -F "files=@sample_docs/sample_clinical_note.txt" \
-  -F "files=@sample_docs/sample_lab_report.txt"
+  -F "files=@sample_docs/sample_clinical_note.txt"
 ```
 
 **Download the PDF report:**
