@@ -1,0 +1,107 @@
+LABORATORY REPORT
+=================
+Laboratory      : PathCare Diagnostics, Bengaluru
+Lab ID          : PCB-2025-183924
+Collection Date : 13 April 2025
+Report Date     : 13 April 2025 (same day processing)
+Ordering Physician: Dr. Neeraj Kapoor, MD (Internal Medicine)
+
+PATIENT DETAILS
+Patient Name    : Aditya Rao
+Age / Sex       : 48 years / Male
+MRN             : PCB-483920
+
+─────────────────────────────────────────────────────────────────────────
+COMPLETE BLOOD COUNT (CBC)
+─────────────────────────────────────────────────────────────────────────
+Haemoglobin         :  10.8  g/dL       [Normal: 13.0 – 17.0]  LOW
+Haematocrit (PCV)   :  33.2  %          [Normal: 40.0 – 52.0]  LOW
+RBC Count           :   3.8  x10^12/L   [Normal: 4.5 – 5.5]    LOW
+MCV                 :  72.4  fL         [Normal: 80.0 – 100.0]  LOW
+MCH                 :  22.1  pg         [Normal: 27.0 – 33.0]   LOW
+MCHC                :  30.6  g/dL       [Normal: 31.5 – 36.5]   LOW
+RDW                 :  16.8  %          [Normal: 11.5 – 14.5]   HIGH
+WBC Count           :  12.4  x10^9/L    [Normal: 4.0 – 11.0]   HIGH
+Neutrophils         :  78.0  %          [Normal: 45.0 – 70.0]   HIGH
+Lymphocytes         :  16.0  %          [Normal: 20.0 – 45.0]   LOW
+Monocytes           :   5.0  %          [Normal: 2.0 – 10.0]    Normal
+Eosinophils         :   1.0  %          [Normal: 1.0 – 6.0]     Normal
+Platelet Count      : 420    x10^9/L    [Normal: 150 – 400]     HIGH
+MPV                 :   8.2  fL         [Normal: 7.5 – 12.5]    Normal
+
+Lab Comment (CBC): Microcytic hypochromic anaemia with reactive thrombocytosis and leukocytosis.
+Pattern consistent with iron deficiency anaemia or chronic disease. Recommend iron studies.
+
+─────────────────────────────────────────────────────────────────────────
+IRON STUDIES
+─────────────────────────────────────────────────────────────────────────
+Serum Iron          :  38    µg/dL       [Normal: 60 – 170]     LOW
+TIBC                : 420    µg/dL       [Normal: 250 – 370]    HIGH
+Transferrin Saturation:  9.0 %           [Normal: 20 – 50]      LOW
+Serum Ferritin      :   6.2  ng/mL       [Normal: 12 – 300]     LOW
+
+Lab Comment (Iron Studies): Findings consistent with iron deficiency anaemia. Low serum ferritin,
+elevated TIBC, and low transferrin saturation confirm iron deficiency as the aetiology of anaemia.
+
+─────────────────────────────────────────────────────────────────────────
+COMPREHENSIVE METABOLIC PANEL (CMP)
+─────────────────────────────────────────────────────────────────────────
+Serum Glucose (Fasting): 128   mg/dL     [Normal: 70 – 100]     HIGH
+Serum Creatinine        :  1.1  mg/dL    [Normal: 0.7 – 1.2]    Normal
+Blood Urea Nitrogen (BUN):  18  mg/dL    [Normal: 7 – 20]       Normal
+eGFR                    :  74   mL/min/1.73m²  [Normal: >60]    Normal
+Serum Sodium            : 140   mEq/L    [Normal: 136 – 145]    Normal
+Serum Potassium         :  3.8  mEq/L    [Normal: 3.5 – 5.1]    Normal
+Serum Chloride          : 102   mEq/L    [Normal: 98 – 107]     Normal
+Serum Calcium           :  9.1  mg/dL    [Normal: 8.5 – 10.5]   Normal
+Total Protein           :  7.0  g/dL     [Normal: 6.3 – 8.2]    Normal
+Albumin                 :  3.9  g/dL     [Normal: 3.5 – 5.0]    Normal
+Total Bilirubin         :  0.9  mg/dL    [Normal: 0.1 – 1.2]    Normal
+ALT (SGPT)              :  48   U/L      [Normal: 7 – 40]       HIGH
+AST (SGOT)              :  52   U/L      [Normal: 10 – 40]      HIGH
+Alkaline Phosphatase    :  72   U/L      [Normal: 40 – 150]     Normal
+GGT                     :  38   U/L      [Normal: 9 – 48]       Normal
+
+Lab Comment (CMP): Mild transaminitis (ALT and AST mildly elevated). Fasting glucose elevated —
+consistent with impaired fasting glucose or early Type 2 Diabetes. Renal function normal.
+
+─────────────────────────────────────────────────────────────────────────
+LIPID PANEL (FASTING)
+─────────────────────────────────────────────────────────────────────────
+Total Cholesterol       : 238   mg/dL    [Normal: <200]          HIGH
+LDL Cholesterol         : 158   mg/dL    [Normal: <100]          HIGH
+HDL Cholesterol         :  38   mg/dL    [Normal: >40 (male)]    LOW
+Triglycerides           : 210   mg/dL    [Normal: <150]          HIGH
+Non-HDL Cholesterol     : 200   mg/dL    [Normal: <130]          HIGH
+
+Lab Comment (Lipid Panel): Significant dyslipidaemia with elevated total cholesterol, LDL, and
+triglycerides, and low HDL. Cardiovascular risk is increased. Statin therapy and lifestyle modification
+should be considered.
+
+─────────────────────────────────────────────────────────────────────────
+HbA1c
+─────────────────────────────────────────────────────────────────────────
+HbA1c                   :  6.4  %        [Normal: <5.7%]         ABNORMAL
+                                          [Prediabetes: 5.7–6.4%]
+                                          [Diabetes: ≥6.5%]
+
+Lab Comment (HbA1c): HbA1c of 6.4% is at the upper end of the prediabetes range.
+Combined with fasting glucose of 128 mg/dL, this is consistent with prediabetes / borderline
+Type 2 Diabetes. Repeat HbA1c in 3 months recommended.
+
+─────────────────────────────────────────────────────────────────────────
+THYROID FUNCTION
+─────────────────────────────────────────────────────────────────────────
+TSH                     :  4.8  mIU/L    [Normal: 0.5 – 4.5]    HIGH
+Free T4                 :  1.1  ng/dL    [Normal: 0.8 – 1.8]    Normal
+Free T3                 :  3.2  pg/mL    [Normal: 2.3 – 4.2]    Normal
+
+Lab Comment (Thyroid): Mildly elevated TSH with normal free T4 and T3 — consistent with subclinical
+hypothyroidism. Clinical correlation recommended. Consider repeat TSH in 3–6 months or levothyroxine
+if symptomatic.
+
+─────────────────────────────────────────────────────────────────────────
+END OF REPORT
+─────────────────────────────────────────────────────────────────────────
+Verified by: Dr. Sonal Gupta, MD (Pathology)
+PathCare Diagnostics, Bengaluru | NABL Accredited | Lab ID: PCB-2025-183924

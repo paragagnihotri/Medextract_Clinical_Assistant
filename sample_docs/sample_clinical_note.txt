@@ -1,0 +1,110 @@
+OUTPATIENT CLINICAL NOTE — GENERAL MEDICINE
+===========================================
+Date        : 15 April 2025
+Clinician   : Dr. Priya Sharma, MBBS, MD (Internal Medicine)
+Facility    : Sunrise Medical Centre, Mumbai
+
+PATIENT DETAILS
+Patient     : Ramesh Kumar
+Age / Sex   : 62 years / Male
+MRN         : SMC-00294817
+
+ALLERGIES
+Known drug allergy: Penicillin — anaphylaxis (documented 2018)
+No known food allergies.
+
+CHIEF COMPLAINT
+Patient presents with worsening fatigue, exertional dyspnoea, and pedal oedema for the past 3 weeks.
+Also reports dry cough for 2 weeks and occasional dizziness on standing.
+
+HISTORY OF PRESENTING ILLNESS
+Mr. Ramesh Kumar is a known case of Type 2 Diabetes Mellitus (diagnosed 2016), Hypertension
+(diagnosed 2014), and Chronic Kidney Disease Stage 3 (CKD-3, eGFR 38 mL/min/1.73m², confirmed
+March 2025). He presents today with a 3-week history of progressive dyspnoea on exertion (Grade II
+NYHA), bilateral ankle swelling, and general fatigue. He denies chest pain, fever, or haemoptysis.
+He reports moderate compliance with his current medications but has been inconsistent with his
+sodium-restricted diet. He smokes 5 cigarettes daily (20 pack-year history) and does not consume alcohol.
+
+PAST MEDICAL HISTORY
+1. Type 2 Diabetes Mellitus — primary — active
+2. Hypertension — secondary — active
+3. Chronic Kidney Disease Stage 3 — chronic — active
+4. Dyslipidaemia — chronic — active
+5. Osteoarthritis left knee — chronic — stable
+
+CURRENT MEDICATIONS (Prior to Today)
+1. Metformin 500mg — oral — twice daily — for glycaemic control
+2. Amlodipine 5mg — oral — once daily — for blood pressure
+3. Losartan 50mg — oral — once daily — for blood pressure and renal protection
+4. Atorvastatin 40mg — oral — at bedtime — for dyslipidaemia
+5. Aspirin 75mg — oral — once daily — for cardiovascular risk reduction
+
+EXAMINATION
+General: Alert, oriented, mildly distressed. BMI 29.4 kg/m².
+Vitals:
+  Blood Pressure  : 152/94 mmHg (elevated)
+  Heart Rate      : 88 bpm (regular)
+  Respiratory Rate: 18 breaths/min
+  SpO2            : 96% on room air
+  Temperature     : 36.8°C (afebrile)
+  Weight          : 78.2 kg (previous visit 76.5 kg — gain of 1.7 kg in 4 weeks)
+
+Cardiovascular: S1 and S2 heard. No added sounds. JVP elevated at 6 cm above sternal angle.
+Respiratory   : Bilateral basal crackles noted. No wheeze.
+Abdomen       : Soft, non-tender. No organomegaly.
+Lower Limbs   : Bilateral pitting pedal oedema 2+ to mid-calf.
+
+INVESTIGATIONS REVIEWED
+Renal Function (12 April 2025): Serum Creatinine 1.8 mg/dL (elevated), eGFR 38 mL/min/1.73m²,
+  Serum Potassium 4.9 mEq/L (upper limit of normal), Sodium 138 mEq/L (normal)
+HbA1c (12 April 2025): 8.2% (above target — target <7.0%)
+Fasting Blood Glucose today: 11.4 mmol/L (elevated)
+ECG today: Sinus rhythm, no acute ST changes, mild LVH pattern.
+Chest X-Ray today: Mild cardiomegaly. Bilateral blunting of costophrenic angles (small bilateral pleural effusions).
+
+ASSESSMENT
+1. Decompensated heart failure with preserved ejection fraction (HFpEF) — primary — new diagnosis
+2. Uncontrolled Type 2 Diabetes Mellitus — suboptimal glycaemic control
+3. Hypertension — inadequately controlled
+4. Chronic Kidney Disease Stage 3 — stable
+5. Dyslipidaemia — chronic — stable on treatment
+
+PLAN / MANAGEMENT
+
+Medications — New and Changed:
+1. Furosemide 40mg — oral — once daily in the morning — for fluid overload — new medication
+   Instruction: Take in the morning. Monitor daily weight. Report if weight increases by >2 kg in 24 hours.
+2. Spironolactone 25mg — oral — once daily — for heart failure and fluid management — new medication
+   Instruction: Monitor potassium closely given CKD-3.
+3. Empagliflozin 10mg — oral — once daily with breakfast — for glycaemic control and heart failure — new medication
+   Note: SGLT2 inhibitor — also beneficial in HFpEF and CKD. Hold if eGFR drops below 30.
+4. Amlodipine — increase dose to 10mg — oral — once daily — dose-changed
+5. Losartan 50mg — continue — no change
+6. Metformin — reduce to 500mg once daily — dose-changed — due to CKD-3 caution
+7. Atorvastatin 40mg — continue — no change
+8. Aspirin 75mg — continue — no change
+
+Investigations Ordered:
+- Repeat Renal Function Tests, Electrolytes, BNP in 1 week
+- 24-hour Urine Protein: Creatinine Ratio
+- Echocardiogram (urgent — within 2 weeks) — to assess cardiac function, ejection fraction, wall motion
+- Fasting Lipid Profile
+
+Non-pharmacological:
+- Strict sodium restriction: <2g/day
+- Fluid restriction: <1.5 L/day
+- Daily weight monitoring
+- Smoking cessation — referred to smoking cessation programme
+- Dietary review — referred to dietician
+
+Referrals:
+- Cardiology: Urgent referral for HFpEF management and echocardiogram review
+- Nephrology: Routine referral for CKD management and medication optimisation
+
+FOLLOW-UP
+Review in 1 week with renal function results, electrolytes, and BNP.
+If symptoms worsen before then, patient advised to attend Emergency Department.
+
+Dr. Priya Sharma
+General & Internal Medicine
+Sunrise Medical Centre

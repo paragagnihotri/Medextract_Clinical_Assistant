@@ -1,0 +1,103 @@
+RADIOLOGY REPORT
+================
+Facility        : Apollo Imaging Centre, Hyderabad
+Accession No    : AIC-2025-04-7821
+Report Date     : 14 April 2025
+Reporting Radiologist: Dr. Ananya Reddy, DMRD, DNB (Radiology)
+
+PATIENT DETAILS
+Patient Name    : Sunita Mehta
+Age / Sex       : 55 years / Female
+Referring Clinician: Dr. Vikram Joshi, MD (Gastroenterology)
+
+EXAMINATION
+CT ABDOMEN AND PELVIS WITH CONTRAST (TRIPLE PHASE)
+Indication: Evaluation of right upper quadrant pain, elevated liver enzymes, known history of
+cholelithiasis. Rule out hepatic mass / biliary pathology.
+Contrast Agent: Iohexol 350 mg/mL — 100 mL IV bolus
+
+COMPARISON
+Prior Ultrasound Abdomen (22 January 2025): Cholelithiasis with multiple gallstones, largest 1.2 cm.
+No bile duct dilatation at that time. Liver unremarkable on ultrasound.
+
+FINDINGS
+
+LIVER:
+The liver is normal in size and demonstrates smooth contours. The liver parenchyma shows
+heterogeneous attenuation. A well-defined hypodense lesion is noted in Segment VI of the right
+hepatic lobe, measuring 3.1 cm x 2.8 cm in axial dimensions. The lesion demonstrates peripheral
+nodular enhancement on arterial phase with progressive fill-in on portal venous and delayed phases,
+consistent with haemangioma. No washout. No satellite lesions. No biliary radicle dilatation.
+
+A second smaller lesion of 0.8 cm is noted in Segment II of the left hepatic lobe, too small to
+characterise definitively. No arterial enhancement. Likely a small cyst — recommend follow-up.
+
+GALLBLADDER AND BILIARY SYSTEM:
+The gallbladder is distended. Multiple calculi are seen within the gallbladder lumen, the largest
+measuring 1.5 cm. The gallbladder wall shows mild thickening of 4 mm, consistent with chronic
+cholecystitis. No pericholecystic fluid. No signs of acute cholecystitis.
+The common bile duct measures 6 mm in diameter (upper limit of normal). No choledocholithiasis.
+No intrahepatic bile duct dilatation.
+
+PANCREAS:
+The pancreas is normal in size, morphology, and signal intensity. No focal pancreatic lesion.
+No pancreatic duct dilatation. No peripancreatic fluid or fat stranding.
+
+SPLEEN:
+The spleen is homogeneous in attenuation and measures 10.2 cm in craniocaudal dimension (normal).
+No focal splenic lesion.
+
+KIDNEYS AND ADRENALS:
+The right kidney measures 10.8 cm and the left kidney measures 10.5 cm, both within normal limits.
+Bilateral kidneys demonstrate normal corticomedullary differentiation and enhancement.
+A simple cortical cyst is noted in the upper pole of the right kidney, measuring 1.3 cm, smooth-walled,
+non-enhancing, Bosniak Category I.
+No renal calculi. No hydronephrosis. Both adrenal glands are normal.
+
+BOWEL:
+No bowel wall thickening. No obstruction. Appendix is visualised and is normal in calibre.
+
+PERITONEUM AND LYMPH NODES:
+No free intra-abdominal fluid. No lymphadenopathy. No peritoneal deposits.
+
+AORTA AND VASCULATURE:
+The aorta and its major branches are normal in calibre and enhancement. No aneurysmal dilatation.
+Coeliac axis, SMA, and SMV are patent.
+
+BONES AND SOFT TISSUES:
+Visualised bony structures show no aggressive osseous lesions. Mild degenerative changes noted at L3-L4
+and L4-L5 levels with disc space narrowing.
+
+IMPRESSION
+
+1. HEPATIC HAEMANGIOMA (Segment VI, right lobe) — 3.1 cm x 2.8 cm. Typical enhancement pattern
+   for haemangioma. No features of malignancy.
+
+2. INDETERMINATE SMALL HEPATIC LESION (Segment II, left lobe) — 0.8 cm. Too small to characterise.
+   Likely a simple cyst given lack of arterial enhancement. Follow-up MRI recommended.
+
+3. CHOLELITHIASIS with CHRONIC CHOLECYSTITIS. Multiple gallstones, largest 1.5 cm.
+   Mild gallbladder wall thickening. No acute cholecystitis. Common bile duct not dilated.
+
+4. SIMPLE RIGHT RENAL CYST — 1.3 cm, Bosniak Category I. No further workup required.
+
+5. MILD LUMBAR SPONDYLOSIS at L3-L4 and L4-L5. Incidental finding.
+
+6. No hepatic malignancy identified. No biliary obstruction. No peritoneal disease.
+
+RECOMMENDATIONS
+
+1. MRI Liver with hepatocyte-specific contrast (Primovist) within 4 weeks — to further characterise
+   the 0.8 cm Segment II lesion and confirm haemangioma in Segment VI.
+
+2. Surgical referral for symptomatic cholelithiasis — laparoscopic cholecystectomy should be
+   considered given chronic cholecystitis and recurrent symptoms.
+
+3. Routine follow-up imaging for the right renal cyst is NOT required (Bosniak I).
+
+4. Orthopaedic or physiotherapy referral for symptomatic lumbar spondylosis if clinically indicated.
+
+Dr. Ananya Reddy
+Diagnostic Radiology
+Apollo Imaging Centre, Hyderabad
+Tel: +91-40-2345-6789
